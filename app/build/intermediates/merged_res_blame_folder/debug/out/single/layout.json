@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_account.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_checkout.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_checkout.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_login.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_credit_card.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_credit_card.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/activity_splash_screen.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/activity_main.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_address.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_address.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_explore.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_new_state.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_new_state.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_favourite.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_shipping_address.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_shipping_address.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_signup.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_explore.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_explore.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_update_profile.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_update_profile.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_favourite.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_favourite.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_write_review.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_write_review.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_category.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_product_details.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_cart.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_cards.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_cards.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_brand.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_brand.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/fragment_checkout.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/item_review.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-mergeDebugResources-56:/layout/product_details_content.xml",
+        "source": "com.example.ecommerceapp-main-59:/layout/product_details_content.xml"
+    }
+]

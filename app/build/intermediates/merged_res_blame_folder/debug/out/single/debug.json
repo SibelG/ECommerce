@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_apple.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_apple.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/font_sf_pro_display_medium.otf.flat",
+        "source": "com.example.ecommerceapp-main-59:/font/sf_pro_display_medium.otf"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_wishlist.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_wishlist.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_mens_shoe.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_mens_shoe.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_favourite.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_favourite.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-anydpi-v24_icon_b_o.xml.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-anydpi-v24/icon_b_o.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_update_profile.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_update_profile.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/xml_backup_rules.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_my_location_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_arrow_forward.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_arrow_forward.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_close_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_circle_view.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/circle_view.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_error_outline_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_error_outline_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_history.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_history.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_womens_shoe.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_womens_shoe.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_credit_card.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_credit_card.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_login.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_gadgets.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_gadgets.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/anim_slide_in_right.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-ldpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_explore.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_explore.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xxhdpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/font_fonts.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/font/fonts.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_exit.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_exit.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_product_details.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_product_details.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_checkbox_fill.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/checkbox_fill.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_track_order.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_track_order.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_facebook.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_facebook.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_new_state.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_new_state.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/menu_nav_menu.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_min.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_min.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_google.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_google.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_product_details_content.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/product_details_content.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-hdpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/xml_activity_splash_screen_scene.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/xml/activity_splash_screen_scene.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_search_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_gaming.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_gaming.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_account.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_search_view.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/search_view.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_search.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_search.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/anim_slide_in_left.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_wishlist_colored.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_wishlist_colored.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xxxhdpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_account_profile.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_account_profile.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/anim_slide_out_left.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xxhdpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_favorite_border.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_location.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_location.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_brand.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_brand.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_checkout.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_checkout.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_cards.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_cards.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_write_review.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_write_review.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_devices.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_devices.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_add.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_delete.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_delete.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-ldpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_explore.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_explore.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_payment.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_payment.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_rounded_shape.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/rounded_shape.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_shipping_address.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_shipping_address.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_speaker.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_speaker.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-mdpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_review.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_review.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_signup.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_arrow_back.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_image_wireless_remote.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxxhdpi/image_wireless_remote.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-hdpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_address.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_address.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_share_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_edit_profile.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_edit_profile.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-ldpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-ldpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_category.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_point.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_point.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-mdpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_checkbox_null.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/checkbox_null.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_checkout.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_checkout.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_forward.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/forward.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xhdpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_login_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-mdpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-mdpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/anim_slide_out_right.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_mastercard.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_mastercard.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_user.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_user.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ecommerceapp-main-59:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_camera.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_camera.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xhdpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxxhdpi_icon_b_o.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-xxxhdpi/icon_b_o.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_airpods.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_airpods.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/font_sf_pro_display_thin.otf.flat",
+        "source": "com.example.ecommerceapp-main-59:/font/sf_pro_display_thin.otf"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_explore.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_explore.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_beats.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_beats.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_saved_search_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_saved_search_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/font_sf_pro_display_bold.otf.flat",
+        "source": "com.example.ecommerceapp-main-59:/font/sf_pro_display_bold.otf"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_cart.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_cart.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xhdpi_image_explore_watch.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xhdpi/image_explore_watch.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_icon_notifications.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/icon_notifications.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_favourite.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_favourite.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_fragment_cart.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable/ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-hdpi_card.png.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-hdpi/card.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-anydpi-v24_card.xml.flat",
+        "source": "com.example.ecommerceapp-pngs-52:/drawable-anydpi-v24/card.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/font_sf_pro_display_regular.otf.flat",
+        "source": "com.example.ecommerceapp-main-59:/font/sf_pro_display_regular.otf"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/navigation_section_nav_graph.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/navigation/section_nav_graph.xml"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/drawable-xxhdpi_image_smart_luggage.png.flat",
+        "source": "com.example.ecommerceapp-main-59:/drawable-xxhdpi/image_smart_luggage.png"
+    },
+    {
+        "merged": "com.example.ecommerceapp-merged_res-57:/layout_item_explore.xml.flat",
+        "source": "com.example.ecommerceapp-main-59:/layout/item_explore.xml"
+    }
+]
